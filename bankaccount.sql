@@ -273,7 +273,7 @@ CREATE TABLE IF NOT EXISTS `users` (
 --
 
 INSERT INTO `users` (`id`, `firstname`, `lastname`, `username`, `phone`, `email`, `password`, `address`, `gender`, `dob`, `user_role`, `date`, `login_session_key`, `email_status`, `password_reset_key`) VALUES
-(1, 'Williams', 'Johnson', 'willvin', '6646848468', 'willvin@example.org', '$2y$10$Ca1AiSyo4IgFP5JrjaJq6uj8DsrolARK1FrJ/ogctIDfdBrg7QLcW', 'old barrier, accra, ghana.', 'Male', '1995-09-12 13:47:00', 'administrator', '2019-09-10 13:47:32', NULL, NULL, NULL),
+(1, 'Williams', 'Johnson', 'willvin', '6646848468', 'willvin@example.org', '$2y$10$oIH.AvwieUJRTjFZEOjz7.7ag7sdQypP8DD6gHugdXOv4VWuqGi8e', 'old barrier, accra, ghana.', 'Male', '1995-09-12 13:47:00', 'administrator', '2019-09-10 13:47:32', NULL, NULL, NULL),
 (2, 'Daniel', 'Johnson', 'dsaved', '53434343', 'dsaved@example.org', '$2y$10$oIH.AvwieUJRTjFZEOjz7.7ag7sdQypP8DD6gHugdXOv4VWuqGi8e', 'rgreg  ge rge gr', 'Male', '1994-11-05 23:00:00', 'user', '2019-09-10 23:02:27', NULL, NULL, NULL);
 COMMIT;
 
