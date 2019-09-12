@@ -29,3 +29,4 @@ Password: 12345
 - System logs
 
 ## Project Import
+How to import the project to phprad classic(Coming soon...)
