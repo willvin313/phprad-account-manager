@@ -13,7 +13,7 @@ Username: dsaved<br>
 Password: 12345
 
 ## Requirement
-- PHPRad Classic Edition version 2.6.0
+- PHPRad Classic Edition (Minimum: version 2.6.0)
 - A web server (Recommended: Apache (WAMP, XAMP, etc))
 - A MySQL server if not using Apache (WAMP, XAMP, etc)
 
