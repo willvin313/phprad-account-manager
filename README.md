@@ -1,2 +1,2 @@
-# PHPRad-My-Bank-Manager
-A PHPRad Bank Manager project file.
+# PHPRad My Account Manager
+A PHPRad Account Manager project file.
