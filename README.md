@@ -1,5 +1,6 @@
 # PHPRad My Account Manager
-A PHPRad <b>Account Manager project</b> file, to generate a webapp with the below features, which also help users understand how to impliment or configure such feature in PHPRad.
+![Screenshot of Dashboad](Screenshot(Dashboard).png)
+A PHPRad <b>Account Manager project</b> file, to generate a webapp with the below features, which also help users understand how to implement or configure such feature in PHPRad. In the project we avoid using custom page and field editing and therefor using mysql triggers in place of that.
 
 <b>Admin Details</b><br>
 Username: willvin<br>
