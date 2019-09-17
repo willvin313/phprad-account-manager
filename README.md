@@ -2,7 +2,7 @@
 ![Screenshot of Dashboad](Screenshot(Dashboard).png)
 A PHPRad <b>Account Manager project</b> file, to generate a webapp with the below features, which also help users understand how to implement or configure such feature in PHPRad. In the project we avoid using custom page and field editing and therefor using mysql triggers in place of that.
 
-*Click "Watch/Star" to get an email notification once an update is made to this repository. And contributions are also welcomed*
+*Click "Watch and Star" to get an email notification once an update is made to this repository. And contributions are also welcomed*
 
 <b>Admin Details</b><br>
 Username: willvin<br>
