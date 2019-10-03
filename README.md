@@ -41,3 +41,5 @@ How to import the project to phprad classic.
 9. Enter your "MySQL" server username and password in <b>User</b> and <b>Password</b> fields repectively.
 10. If your "MySQL" connection settings are correct, you should see a list of you database when you click on the <b>Database</b> select field.
 11. Now select the previouly created database and click on <b>Import Project</b> button.
+
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Note: if you get an error when previewing the project <b>Account Manager.ppm</b>, please load <b>Account Manager(No-Errors).ppm</b> instead.
