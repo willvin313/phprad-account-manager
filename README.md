@@ -22,7 +22,7 @@ Password: 12345
 Username: dsaved<br>
 Password: 12345
 
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Note: if you get an error when previewing the project <b>Account Manager.ppm</b>, please load <b>Account Manager(No-Errors).ppm</b> instead.
+![#f03c15](https//placehold.it/15/f03c15/000000?text=+) Note: if you get an error when previewing the project <b>Account Manager.ppm</b>, please load <b>Account Manager(No-Errors).ppm</b> instead.
 
 ## Requirement
 - PHPRad Classic Edition (Minimum: version 2.6.0)
